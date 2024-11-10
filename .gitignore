@@ -2,5 +2,13 @@
 # pixi environments
 .pixi
 *.egg-info
-image/*
+image/output/*
 !image/.placeholder
+image/input/*
+!image/input/background.png
+
+
+main.build
+main.dist
+main.onefile-build
+main.exe

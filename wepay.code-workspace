@@ -7,8 +7,12 @@
 	"settings": {
 		"cSpell.words": [
 			"LANCZOS",
+			"noinclude",
+			"nuitka",
+			"onefile",
 			"qrcode",
-			"wechat"
+			"wechat",
+			"wepay"
 		]
 	}
 }
