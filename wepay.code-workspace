@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"LANCZOS",
+			"qrcode",
+			"wechat"
+		]
+	}
+}
